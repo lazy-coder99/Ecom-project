@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Iron Sickle",
+      "category": "Tool",
+      "brand": "HarvestPro",
+      "price": 35,
+      "stock": 150,
+      "description": "An efficient iron sickle designed for agricultural use, perfect for cutting grass and harvesting crops",
+      "image": "./sickle.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Iron Chain Gate",
+      "category": "Home Security",
+      "brand": "SecureGuard",
+      "price": 6499.99,
+      "stock": 10,
+      "image": "./ironchaingate.jpg",
+      "description": "A sturdy iron chain gate providing enhanced security for residential and commercial properties, featuring a rust-resistant finish."
+    },
+    {
+      "id": 3,
+      "name": "Iron Window Grille",
+      "category": "Home decor",
+      "brand": "Eleganceforge",
+      "price": 1299,
+      "stock": 30,
+      "image": "./windowgrill.jpg",
+      "description": "An intricately designed iron window grille, combining security with aesthetic appeal, ideal for enhancing the look of any window."
+    },
+    {
+      "id": 4,
+      "name": "Iron skillet",
+      "category": "Kitchen ware",
+      "brand": "chefMaster",
+      "price": 499.99,
+      "stock": 50,
+      "image": "./ironskillet(1).jpg",
+      "description": "A high-quality iron skillet, perfect for frying, searing, and baking, featuring excellent heat retention and a comfortable handle."
+    },
+    {
+      "id": 5,
+      "name": "Iron fence ",
+      "category": "Home Security",
+      "brand": "Guardfence",
+      "price": 249.99,
+      "stock": 60,
+      "image": "./ironfences.jpg",
+      "description": "A robust iron fence providing security and aesthetic appeal to any property, featuring a rust-resistant coating for longevity."
+    },
+    {
+      "id": 6,
+      "name": "Iron Door",
+      "category": "Home Security",
+      "brand": "secureHome",
+      "price": 3999.99,
+      "stock": 12,
+      "image": "./Irondoor.jpg",
+      "description": "A heavy-duty iron door designed for maximum security and durability, suitable for both residential and commercial use."
+    }
+  ]
